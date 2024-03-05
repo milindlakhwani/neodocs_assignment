@@ -8,7 +8,7 @@ This Flutter assignment for Neodocs involves creating an app with a single scree
   - Indicates various sections on the bar and users proximity to other sections.
   - Does not change dynamically.
   - Takes minimum and maximum values.
-  - Utilizes a list of ranges to specify width and meaning of each range.
+  - Utilizes a list of items to specify width and meaning of each range.
 
 - **Dynamic Slider Widget:**
   - Placed above the bar to show user's position.
